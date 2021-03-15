@@ -25,7 +25,7 @@
 <a href="https://fb.com/ahmaat19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ahmaat19" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmaat19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ahmaat19" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/barocoding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="barocoding" height="30" width="40" /></a>
-<a href="https://discord.gg/5NaT3QCeS9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="5NaT3QCeS9" height="30" width="40" /></a>
+<a href="https://discord.gg/ahmaat19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ahmaat19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
