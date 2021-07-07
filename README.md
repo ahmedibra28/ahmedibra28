@@ -1,13 +1,13 @@
 <p align="center">
 <h1 align='center'></h1>
-<h1 align="center">H I 👋, I A'M A H M E D  I B R A H I M  S A M O W</h1>
-<h2 align='center'>S o f t w  a r e  D e v e l o p e r </h2>
+<h1 align="center">Hi 👋, I'm A H M E D</h1>
+<h2 align='center'>Software  Developer</h2>
 </p>
 <p align="center">
- ahmaat19@gmail.com  </br>
- +252615301507  </br>
- https://geeltech.com  </br>
- https://github.com/ahmaat19 </br>
+ <a href='mailto:ahmaat19@gmail.com'>ahmaat19@gmail.com</a> </br>
+ <a href='tel:+252615301507'>+252615301507</a> </br>
+ <a href='https://geeltech.com'>Geel Tech</a> </br>
+ <a href='https://github.com/ahmaat19'>GitHub Profile</a> </br>
 </p>
 
 <p align="center">
