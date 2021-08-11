@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align='center'></h1>
 <h1 align="center">Hi 👋, I'm A H M E D</h1>
-<h2 align='center'>Software  Developer</h2>
+<h2 align='center'>Full  Stack  Developer</h2>
 </p>
 <p align="center">
  <a href='mailto:ahmaat19@gmail.com'>ahmaat19@gmail.com</a> </br>
@@ -27,7 +27,7 @@
 <p align="center"> <a href="https://twitter.com/ahmaat19" target="blank"><img src="https://img.shields.io/twitter/follow/ahmaat19?logo=twitter&style=for-the-badge" alt="ahmaat19" /></a> </p>
 
 <p align="center">
-I'm Software Developer with 9+ years of experience in designing and
+I'm a Full Stack Developer with 9+ years of experience in designing and
 developing user interfaces, testing, debugging, and training staff within modern technologies.
 Proven ability in optimizing web functionalities 
 that improve data retrieval and workflow efficiencies.
