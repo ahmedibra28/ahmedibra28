@@ -6,7 +6,7 @@
 <p align="center">
  <a href='mailto:ahmaat19@gmail.com'>ahmaat19@gmail.com</a> </br>
  <a href='tel:+252615301507'>+252615301507</a> </br>
- <a href='https://websome.dev'>Websome</a> </br>
+ <a href='https://websom.dev'>Websom</a> </br>
  <a href='https://github.com/ahmaat19'>GitHub Profile</a> </br>
 </p>
 
