@@ -26,7 +26,7 @@
 <p align="center"> <a href="https://twitter.com/ahmedibra28" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedibra28?logo=twitter&style=for-the-badge" alt="ahmedibra28" /></a> </p>
 
 <p align="center">
-I'm a Full Stack Developer with 5+ years of experience in designing and
+I'm a Full Stack Developer with 6+ years of experience in designing and
 developing user interfaces, testing, debugging, and training staff within modern technologies.
 Proven ability in optimizing web functionalities 
 that improve data retrieval and workflow efficiencies.
